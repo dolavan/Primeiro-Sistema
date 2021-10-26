@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<RootNamespace>projeto_04_10</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+        <FrameoworkReference  Include = " Microsoft.AspNetCore.App " />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="wwwroot\fonts\" />
+	</ItemGroup>	
+</Project>
